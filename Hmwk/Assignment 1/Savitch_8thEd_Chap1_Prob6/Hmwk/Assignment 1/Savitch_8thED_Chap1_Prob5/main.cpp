@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
  * Author: Cesar Rivera-Garcia
- * Created on June 26, 2014, 7:55 PM
- * Purpose: Obtain sum and product of two integers
+ * Created on June 26, 2014, 7:01 PM
+ * Purpose: Program outputs the sum and product of two integers
  */
 
 //System Libraries
@@ -36,7 +36,7 @@ int main()
     cout<<"you have ";
     cout<<total_peas;
     cout<<" peas in all the pods.\n";//Product calculation ends here
-    cout<<"and the sum of the peas and the pods is ";
+    cout<<"and the sum of the peas and the pods ";
     cout<<ttl_peas;//Sum calculation ends here
     
     //exit
