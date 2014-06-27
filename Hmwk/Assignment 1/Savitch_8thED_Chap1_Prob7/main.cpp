@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
  * Author: Cesar Rivera-Garcia
- * Created on June 26, 2014, 1:37 PM
- * Purpose:Write a program that prints "CS!" in large letters with "*" border
+ * Created on June 26, 2014, 7:50 PM
+ * Purpose: Create large "CS!" with a "*" border
  */
 
 //System Libraries
